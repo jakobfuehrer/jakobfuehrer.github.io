@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Jakob Führer"
   pronouns         : "he/him"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Post-doctoral researcher at Johannes Kepler University Linz. My main interests are Discrete Geometry and Additive Combinatorics."
   location         : "Linz"
   employer         : "Johannes Kepler University"
   uri              : # URL
@@ -35,7 +35,7 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : "https://arxiv.org/search/math?searchtype=author&query=F%C3%BChrer%2C+J"
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0009-4793-0356"
