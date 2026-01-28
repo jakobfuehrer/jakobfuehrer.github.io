@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Special Topics Algebra and Discrete Mathematics (Discrete Geometry)"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/2026-summer-teaching-1
+venue: "Johannes Kepler University"
+date: 01.03.2016
+location: "Linz"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+A one-time course on discrete geometry held in the summer semester 2026.
+Course materials will be posted here.
