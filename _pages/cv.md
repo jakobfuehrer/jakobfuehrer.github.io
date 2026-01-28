@@ -9,28 +9,30 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 01.2025- : Post-doctoral researcher at the Institute for Algebra, as part of the project The Elekes-Szabo Problem (Austrian Science Fund (FWF))
+  * Johannes Kepler University Linz
+  * Principal investigator: Oliver Roche-Newton
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 01.2024–02.2024: Visiting student researcher
+  * California Institute of Technology, Pasadena
+  * Academic host: David Conlon
+ 
+* 10.2022–12.2022: Guest researcher
+  * Budapest University of Technology and Economics
+  * Academic host: Péter Pál Pach
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 07.2021–12.2024: Pre-doctoral researcher at the Institute of Analysis and Number Theory, as part of the project Discrete Mathematics (Austrian Science Fund (FWF)).
+  * Graz University of Technology
+  * Supervisor: Christian Elsholtz
+ 
+Education
+======
+* Ph.D in Mathematics, Graz University of Technology, 2024
+* M.Sc. in Mathematics, Graz University of Technology and University of Graz, 2022
+* B.Sc. in Mathematics, Graz University of Technology and University of Graz, 2018
   
 Skills
 ======
@@ -61,4 +63,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* I could list things here
