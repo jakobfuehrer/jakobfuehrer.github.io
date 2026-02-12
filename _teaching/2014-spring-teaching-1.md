@@ -2,7 +2,7 @@
 title: "Special Topics Algebra and Discrete Mathematics (Discrete Geometry)"
 collection: teaching
 type: "special course"
-permalink: /teaching/2026-summer-teaching-1
+permalink: /teaching/sose2026-discrete-geometry
 venue: "Johannes Kepler University"
 date: 01.03.2026
 location: "Linz"
