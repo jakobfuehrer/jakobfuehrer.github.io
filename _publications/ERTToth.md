@@ -2,7 +2,7 @@
 title: "Progressions in Euclidean Ramsey theory"
 collection: publications
 category: manuscripts
-#permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/ERTToth
 excerpt: 'joint work with Géza Tóth.'
 date: 01.03.2025
 venue: 'Journal 1'
@@ -10,5 +10,3 @@ venue: 'Journal 1'
 paperurl: 'https://doi.org/10.1016/j.ejc.2024.104105'
 #citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
