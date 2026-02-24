@@ -3,7 +3,7 @@ title: "Filling space with hypercubes of two sizes—the Pythagorean tiling in h
 dimensions"
 collection: publications
 category: manuscripts
-#permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/hypercubes
 excerpt: ''
 date: 07.06.2022
 venue: 'Mathematika 68.3'
