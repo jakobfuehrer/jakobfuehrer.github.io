@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "de-AT"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Jakob Führer / Site under construction"
+title                    : "Jakob Führer"
 title_separator          : "-"
 name                     : &name "Jakob Führer"
 description              : &description "Jakob Führer's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
