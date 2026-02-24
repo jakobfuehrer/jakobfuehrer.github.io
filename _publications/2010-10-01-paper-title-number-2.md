@@ -2,7 +2,7 @@
 title: "Maximal line-free sets in 𝔽_p^n"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
+#permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'joint work with C. Elsholtz, E. Füredi, B. Kovács, P. P. Pach, D. G. Simon, and N. Velich.'
 date: 04.01.2025
 venue: 'Periodica Mathematica Hungarica 90.1'
