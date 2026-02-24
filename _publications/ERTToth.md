@@ -2,7 +2,7 @@
 title: "Progressions in Euclidean Ramsey theory"
 collection: publications
 category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
+#permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'joint work with Géza Tóth.'
 date: 01.03.2025
 venue: 'Journal 1'
