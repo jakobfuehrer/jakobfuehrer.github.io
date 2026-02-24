@@ -9,6 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+ 
+Education
+======
+* Ph.D in Mathematics, Graz University of Technology, 2024
+* M.Sc. in Mathematics, Graz University of Technology and University of Graz, 2022
+* B.Sc. in Mathematics, Graz University of Technology and University of Graz, 2018
 
 Work experience
 ======
@@ -27,12 +33,7 @@ Work experience
 * 07.2021–12.2024: Pre-doctoral researcher at the Institute of Analysis and Number Theory, as part of the project Discrete Mathematics (Austrian Science Fund (FWF)).
   * Graz University of Technology
   * Supervisor: Christian Elsholtz
- 
-Education
-======
-* Ph.D in Mathematics, Graz University of Technology, 2024
-* M.Sc. in Mathematics, Graz University of Technology and University of Graz, 2022
-* B.Sc. in Mathematics, Graz University of Technology and University of Graz, 2018
+
   
 
 Publications
