@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jakob Führer"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
