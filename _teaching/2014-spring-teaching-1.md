@@ -14,4 +14,4 @@ A more complete resource for this topic is his book "Lectures on Discrete Geomet
 
 The following lecture notes will be updated regularly. I am happy for any comments on errors in the notes.
 
-<a href="https://jakobfuehrer.github.io/files/Lecture_Notes_on_Discrete_Geometry_2.pdf">Lecture notes</a> from 11.03.26
+<a href="https://jakobfuehrer.github.io/files/Lecture_Notes_on_Discrete_Geometry_3.pdf">Lecture notes</a> from 15.04.26
