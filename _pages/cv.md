@@ -13,12 +13,16 @@ redirect_from:
 Education
 ======
 * Ph.D in Mathematics, Graz University of Technology, 2024
-* M.Sc. in Mathematics, Graz University of Technology and University of Graz, 2022
+* M.Sc. in Mathematics, Graz University of Technology and University of Graz, 2021
 * B.Sc. in Mathematics, Graz University of Technology and University of Graz, 2018
 
 Work experience
 ======
-* 01.2025- : Post-doctoral researcher at the Institute for Algebra, as part of the project The Elekes-Szabo Problem (Austrian Science Fund (FWF))
+* 11.2026- : Post-doctoral Momentum MSCA fellow, with the project Colouring Problems for Progression-Free Sets
+  * Alfréd Rényi Institute of Mathematics, Budapest
+  * Supervisor: Péter Pál Pach
+
+* 01.2025-10.2026 : Post-doctoral researcher at the Institute for Algebra, as part of the project The Elekes-Szabo Problem (Austrian Science Fund (FWF))
   * Johannes Kepler University Linz
   * Principal investigator: Oliver Roche-Newton
 
